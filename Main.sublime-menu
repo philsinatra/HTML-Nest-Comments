@@ -1,0 +1,13 @@
+[{
+  "id": "preferences",
+  "children": [{
+    "id": "package-settings",
+    "children": [{
+      "caption": "HTML Nest Comments",
+      "children": [{
+        "caption": "Comment/Uncomment Selection",
+        "command": "nest"
+      }]
+    }]
+  }]
+}]
