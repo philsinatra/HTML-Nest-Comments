@@ -4,9 +4,14 @@
 ## About
 This is a Sublime Text 2 and 3 plugin allowing you to quickly comment out blocks of HTML code that already contain HTML comments.
 
-
 ## Installation
-This plugin has been submitted for approval to the Sublime Package Manager for easy installation. Until then:
+The easy way is:
+
+### Through [Sublime Package Manager](http://wbond.net/sublime_packages/package_control)
+
+* `Ctrl+Shift+P` or `Cmd+Shift+P` in Linux/Windows/OS X
+* type `install`, select `Package Control: Install Package`
+* type `htmlnest`, select `HTML-Nest-Comments`
 
 ### Manually
 Make sure you use the right Sublime Text folder. For example, on OS X, packages for version 2 are in `~/Library/Application\ Support/Sublime\ Text\ 2`, while version 3 is labeled `~/Library/Application\ Support/Sublime\ Text\ 3`.
