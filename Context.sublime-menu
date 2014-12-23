@@ -1,5 +1,5 @@
 [{
-  "caption": "HTMLNestedComments",
+  "caption": "HTML Nest Comments",
   "children": [{
     "caption": "Comment/Uncomment Selection",
     "command": "nest"

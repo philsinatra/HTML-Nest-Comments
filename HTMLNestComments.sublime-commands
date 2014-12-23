@@ -1,4 +1,4 @@
 [{
-  "caption": "HTMLNestedComments: Comment/Uncomment Selection",
+  "caption": "HTML Nest Comments: Comment/Uncomment Selection",
   "command": "nest"
 }]
