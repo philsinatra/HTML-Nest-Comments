@@ -1,4 +1,4 @@
-# HTMLNestedComments for Sublime Text 2/3
+# HTMLNestedComments for Sublime Text
 #### [Sublime Text 3](http://www.sublimetext.com/3)
 
 ## About
@@ -14,13 +14,13 @@ Make sure you use the right Sublime Text folder. For example, on OS X, packages 
 These are for Sublime Text 3:
 
 #### Mac
-`git clone https://github.com/philsinatra/HTML-Nested-Comments.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/HTML-Nest-Comments`
+`git clone https://github.com/philsinatra/HTML-Nested-Comments.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/HTMLNestedComments`
 
 #### Linux
-`git clone https://github.com/philsinatra/HTML-Nested-Comments.git ~/.config/sublime-text-3/Packages/HTML-Nest-Comments`
+`git clone https://github.com/philsinatra/HTML-Nested-Comments.git ~/.config/sublime-text-3/Packages/HTMLNestedComments`
 
 #### Windows
-`git clone https://github.com/philsinatra/HTML-Nested-Comments.git %APPDATA%/Sublime\ Text\ 3/Packages/HTML-Nest-Comments`
+`git clone https://github.com/philsinatra/HTML-Nested-Comments.git %APPDATA%/Sublime\ Text\ 3/Packages/HTMLNestedComments`
 
 ## Usage
 Tools -> Command Palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) and type `nested`.
