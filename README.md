@@ -1,4 +1,4 @@
-# HTML Nested Comments for Sublime Text 2/3
+# HTMLNestedComments for Sublime Text 2/3
 #### [Sublime Text 3](http://www.sublimetext.com/3)
 
 ## About
