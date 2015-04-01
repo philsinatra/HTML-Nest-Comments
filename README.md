@@ -9,7 +9,7 @@ The easy way is:
 
 ### Through [Sublime Package Manager](http://wbond.net/sublime_packages/package_control)
 
-* `Ctrl+Shift+P` or `Cmd+Shift+P` in Linux/Windows/OS X
+* <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> or <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> in Linux/Windows/OS X
 * type `install`, select `Package Control: Install Package`
 * type `htmlnest`, select `HTML-Nest-Comments`
 
@@ -28,11 +28,11 @@ These are for Sublime Text 3:
 `git clone https://github.com/philsinatra/HTML-Nested-Comments.git %APPDATA%/Sublime\ Text\ 3/Packages/HTML-Nest-Comments`
 
 ## Usage
-Tools -> Command Palette (`Cmd+Shift+P` or `Ctrl+Shift+P`) and type `nested`.
+Tools -> Command Palette (<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd> or <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and type `nested`.
 
 -- or --
 
-`Ctrl+Shift+/` (or `Cmd+Shift+/` if you're on a Mac).
+<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd> (or <kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>/</kbd> if you're on a Mac).
 
 -- or --
 
