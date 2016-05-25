@@ -4,6 +4,8 @@
 ## About
 This is a Sublime Text 2 and 3 plugin allowing you to quickly comment out blocks of HTML code that already contain HTML comments.
 
+![example image](http://cdn.philsinatra.com/libraries/sublime-text/html-nested-comments/sublime-nested-comments.gif)
+
 ## Installation
 The easy way is:
 
@@ -75,3 +77,4 @@ Run the nest command and the code is transformed into:
   <!~~ /.container ~~>
 -->
 ```
+[http://cdn.philsinatra.com/libraries/sublime-text/html-nested-comments/sublime-nested-comments.gif]: 
