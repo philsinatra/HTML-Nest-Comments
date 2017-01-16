@@ -77,4 +77,3 @@ Run the nest command and the code is transformed into:
   <!~~ /.container ~~>
 -->
 ```
-[http://cdn.philsinatra.com/libraries/sublime-text/html-nested-comments/sublime-nested-comments.gif]: 
