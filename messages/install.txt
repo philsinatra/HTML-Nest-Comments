@@ -1,0 +1,10 @@
+HTML Nest Comments
+------------------
+
+You can now nest HTML comments like a pro.
+
+Documentation and usage is available on Github:
+https://github.com/philsinatra/HTML-Nest-Comments
+
+If you encounter a bug or want to contribute, please open an issue:
+https://github.com/philsinatra/HTML-Nest-Comments/issues
