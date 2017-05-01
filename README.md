@@ -1,5 +1,8 @@
+[![GitHub tag](https://img.shields.io/github/tag/philsinatra/HTML-Nest-Comments.svg?style=flat-square)]()
+[![Package Control](https://img.shields.io/packagecontrol/dt/HTML%20Nest%20Comments.svg?style=flat-square)]()
+[![license](https://img.shields.io/github/license/philsinatra/HTML-Nest-Comments.svg?style=flat-square)]()
+
 # HTML Nest Comments for Sublime Text
-#### [Sublime Text 3](http://www.sublimetext.com/3)
 
 ## About
 This is a Sublime Text 2 and 3 plugin allowing you to quickly comment out blocks of HTML code that already contain HTML comments.

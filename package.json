@@ -1,0 +1,15 @@
+{
+  "name": "HTML-Nest-Comments",
+  "description": "This is a Sublime Text 2 and 3 plugin allowing you to quickly comment out blocks of HTML code that already contain HTML comments",
+  "version":"1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:philsinatra/HTML-Nest-Comments.git"
+  },
+  "author": "Phil Sinatra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philsinatra/HTML-Nest-Comments/issues"
+  },
+  "homepage": "https://github.com/philsinatra/HTML-Nest-Comments"
+}
