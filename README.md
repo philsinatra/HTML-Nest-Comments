@@ -1,6 +1,6 @@
-[![GitHub tag](https://img.shields.io/github/tag/philsinatra/HTML-Nest-Comments.svg?style=flat-square)]()
-[![Package Control](https://img.shields.io/packagecontrol/dt/HTML%20Nest%20Comments.svg?style=flat-square)]()
-[![license](https://img.shields.io/github/license/philsinatra/HTML-Nest-Comments.svg?style=flat-square)]()
+[![GitHub tag](https://img.shields.io/github/tag/philsinatra/HTML-Nest-Comments.svg?style=flat-square)](https://github.com/philsinatra/HTML-Nest-Comments)
+[![Package Control](https://img.shields.io/packagecontrol/dt/HTML%20Nest%20Comments.svg?style=flat-square)](https://packagecontrol.io/packages/HTML%20Nest%20Comments)
+[![license](https://img.shields.io/github/license/philsinatra/HTML-Nest-Comments.svg?style=flat-square)](https://github.com/philsinatra/HTML-Nest-Comments/blob/master/LICENSE)
 
 # HTML Nest Comments for Sublime Text
 
